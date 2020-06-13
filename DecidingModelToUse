@@ -1,0 +1,60 @@
+###Article, which Machine Learning model to use https://towardsdatascience.com/which-machine-learning-model-to-use-db5fdf37f3dd
+
+#Types of Machine Learning Models
+#Supervised Learning when the inputs have data labels
+#Unsupervised Learning when the inputs don't have labels
+#Reinforcement Learning when the data has states & actions
+#In Python follow the flow chart for scikit learn https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
+
+Supervised Learning Classification Models_
+Support Vector Machines (SVM)
+Naïve Bayes Classifier
+Multiple Discriminant Analysis (MDA)
+Nearest Neighbor
+Neural Networks
+
+Supervised Learning Regression Models
+Continus Numeric Models
+#Linear Regression (Excel, Alytrex, Orange, Python)
+#Decision Tree
+#Random Forest Model
+#Boosted Model
+
+Unsupervised Learning Models
+Clustering
+K-Means
+Fuzzy Means
+Hierarchical
+Gaussian Mixture
+Neural Networks
+
+#Binary Classification Models
+#Decision Tree
+#Logistical Regression
+
+#Non-binary Classification Models
+#Boosted Model
+#Random Forest Model
+
+#Data Poor Predictive Models
+#A/B Testing
+
+#Time Series Numeric Models
+#ARIMA
+
+#Non-Predictive Data Analysis
+#Aggregation (Sales by Region, by Month)
+#Descriptive (GPA, Batting Average, Electricity)
+#Geospatial
+#Segmentation
+
+#Other Model Types
+forecasting models
+Optimization models
+Ensemble Models
+Sentiment Analysis
+Structural Equation Modeling (SEM)
+Social Network Analysis (SNA)
+Text Mining
+Conjoint Analysis
+Multidimensional Scaling (MDS)
