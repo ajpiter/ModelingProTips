@@ -1,5 +1,4 @@
 #DataCleaning
-
 **Concatenate Files** (Python Pandas, SQL) 
 **Convert Data Types** (Alteryx, XL, Python) 
 **Convert Date Time** (Python) 
@@ -8,3 +7,11 @@
 **Create New Table** (Python, XL) 
 **Eliminate Missing Values** (Python) 
 **Frequency Counts** (Alteryx, Python, SQL, XL) 
+
+**Common Data Cleaning Issues** 
+Duplicate Data 
+Missing Data 
+Spliting Cells (XL)
+Mergining Cells (XL) 
+Formating: Phone Number
+Formating: Upper Case, Lower Case, Normal Case (XL) 
