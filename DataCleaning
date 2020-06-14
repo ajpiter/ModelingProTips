@@ -11,7 +11,7 @@
 **Common Data Cleaning Issues** 
 Duplicate Data 
 Missing Data 
-Spliting Cells (XL)
+Spliting Cells ie. Phone# or Addresses (Alteryx, XL)
 Mergining Cells (XL) 
 Formating: Phone Number
 Formating: Upper Case, Lower Case, Normal Case (XL) 
