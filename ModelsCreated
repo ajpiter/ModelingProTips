@@ -1,7 +1,11 @@
 Below are the different types of models I have built, and the programs I used.
 
 Conditional Statements (Alytrx, Python, SQL, XL)
+KNN Student Success (Python from SQL Database)* 
 Linear Regression (Alytrx, Minitab, Python, Orange, XL) 
 Logistical Regression (Minitab, Python) 
+Random FOrrest (Python from SQL Database)*
 Solver (XL) 
 Webscraping (Alytrex) 
+
+*Team Project
